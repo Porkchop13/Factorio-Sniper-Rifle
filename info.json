@@ -1,0 +1,11 @@
+{
+    "name": "mod-template",
+    "version": "1.0.0",
+    "title": "Mod Template",
+    "author": "Porkchop13",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "Template for a new Factorio mod."
+}
