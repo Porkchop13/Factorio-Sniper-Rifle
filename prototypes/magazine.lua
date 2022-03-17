@@ -39,6 +39,7 @@ local item = {
     order = "a[basic-clips]-d[" .. Constants.magazine .. "]",
     stack_size = 200
 }
+
 table.insert(container, item)
 data:extend(container)
 
