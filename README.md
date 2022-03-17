@@ -2,7 +2,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Porkchop13/Factorio-Sniper-Rifle/Lint?label=lint)
 ![GitHub](https://img.shields.io/github/license/Porkchop13/Factorio-Sniper-Rifle)
 
-# Mod Template
+# Sniper Rifle
 
 Factorio mod adding a sniper rifle and ammo
 
