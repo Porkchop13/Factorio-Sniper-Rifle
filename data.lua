@@ -8,7 +8,7 @@ require("prototypes.magazine")
 require("prototypes.rifle")
 
 -- Technology --
-function addDamageEffect(technology)
+local function addDamageEffect(technology)
     local effects = data.raw["technology"][technology].effects
     effects[#effects + 1] = {
         type = "ammo-damage",
@@ -25,7 +25,7 @@ addDamageEffect("physical-projectile-damage-5")
 addDamageEffect("physical-projectile-damage-6")
 addDamageEffect("physical-projectile-damage-7")
 
-function addSpeedEffect(technology)
+local function addSpeedEffect(technology)
     local effects = data.raw["technology"][technology].effects
     effects[#effects + 1] = {
         type = "gun-speed",
