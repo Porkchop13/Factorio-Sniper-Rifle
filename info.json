@@ -1,11 +1,18 @@
 {
-    "name": "mod-template",
+    "name": "sniper-rifle",
     "version": "1.0.0",
-    "title": "Mod Template",
+    "title": "Sniper Rifle",
     "author": "Porkchop13",
     "factorio_version": "1.1",
     "dependencies": [
-        "base >= 1.1"
+        "base >= 1.1",
+        "stdlib >= 1.4.6",
+        "? bullet-trails >= 0.6.2"
     ],
-    "description": "Template for a new Factorio mod."
+    "description": "Adds a sniper rifle for long-range bug killing.",
+    "package": {
+        "no_git_tag": true,
+        "no_git_push": true,
+        "no_portal_upload": true
+    }
 }
