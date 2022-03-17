@@ -1,10 +1,10 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Porkchop13/Factorio-Mod-Template)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Porkchop13/Factorio-Mod-Template/Lint?label=lint)
-![GitHub](https://img.shields.io/github/license/Porkchop13/Factorio-Mod-Template)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Porkchop13/Factorio-Sniper-Rifle)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Porkchop13/Factorio-Sniper-Rifle/Lint?label=lint)
+![GitHub](https://img.shields.io/github/license/Porkchop13/Factorio-Sniper-Rifle)
 
 # Mod Template
 
-Template for a new Factorio mod
+Factorio mod adding a sniper rifle and ammo
 
 ## Translation
 
